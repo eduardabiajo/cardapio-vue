@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    font-family: "Outfit", sans-serif ;
+    scrollbar-width: thin;
+}
+
+.fa-solid {
+    color: #ffffff;
+    padding: 2.2rem;
+    font-size: 45px;
+}
+
+#navbar-brand {
+    letter-spacing: 0.1rem;
+    font-size: 1.8rem;
+}
+
+.navbar div {
+    height: 7rem;
+    position: inherit;
+}
+
+#app {
+    margin-top: 3rem;
+}
+
+.card {
+    color: blue;
+}
