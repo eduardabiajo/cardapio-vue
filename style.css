@@ -17,14 +17,10 @@
 }
 
 .navbar div {
-    height: 7rem;
+    height: 6rem;
     position: inherit;
 }
 
 #app {
     margin-top: 3rem;
-}
-
-.card {
-    color: blue;
 }
